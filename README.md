@@ -34,5 +34,5 @@
   </tr>
 </table>
 <h2> Phân công </h2>
-<li><a href="https://docs.google.com/spreadsheets/d/1QPGm4XPzt9Dyek6tc9wLVvHuCMeF4WCou4Bp36NYuYw/edit?usp=share_link">Link phân công</a></li>
+<li><a href="https://trello.com/invite/b/9dMvFdVy/ATTI8d2c4c498eca718b26934b522c69d93832CEBB9E/ten-dề-tai">Link phân công</a></li>
 
