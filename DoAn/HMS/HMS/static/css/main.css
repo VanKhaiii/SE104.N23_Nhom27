@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+body {
+    position: relative;
+}
+
+/*Navbar*/
+nav .nav-item {
+    font-size: 20px;
+}
+.container:not(nav .container, footer .container) {
+    background-image: url("http://media.istockphoto.com/id/962720026/photo/bedroom-and-living-on-balcony-in-hotel-or-resort-bedroom-white-tone-design-and-white.jpg?s=612x612&w=0&k=20&c=osCGBJU2z_DMU_kwXjBtfpSAEGcRAmj4UcjkpnUpBag=");
+    background-size: contain;
+  }
+
+/*Footer*/
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px;
+    /* Vertically center the text there */
+    background-color: #e2dada;
+    margin-top: 30px;
+}
